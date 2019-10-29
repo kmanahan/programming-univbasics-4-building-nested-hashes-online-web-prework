@@ -11,11 +11,19 @@ def monopoly_with_second_tier
   # you built in the previous method. Run the tests. They will fail, but
   # they'll guide you in how to modify what you just did to have more
   # complexity.
+<<<<<<< HEAD
   hash = {
    :railroads => {
      :pieces => 4
    }
   }
+=======
+  # Make sure you have a key called :railroads in the `monopoly` Hash and that :railroads points to a Hash"
+  hash = {
+   :pieces 
+  }
+  
+>>>>>>> 8525dcaadf49e100cb365834d289aa1f00fe2d8c
 end
 
 def monopoly_with_third_tier
